@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: validation
+Version: 1.0
+Summary: File validation library.
+Home-page: https://code.overnitecbt.com/calverson/validation/
+Author: Claire Alverson
+Author-email: calverson@overnitecbt.com
+Requires-Python: >=3.1
+Requires-Dist: fleep-py@ git+https://github.com/overnitecbt/fleep-py.git@dev-claire#egg=fleep-py
