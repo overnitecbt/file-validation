@@ -1,4 +1,4 @@
-# file-validation
+# file_signature_validation
 
 
 Comprehensive tests to validate a file based on file signature.
@@ -6,7 +6,7 @@ Comprehensive tests to validate a file based on file signature.
 
 ## Usage
 
-`pip install file-validation`
+`pip install file-signature-validation`
 
 ## Methods
 

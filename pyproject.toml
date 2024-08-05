@@ -3,23 +3,24 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name="file_validation"
+name="file_signature_validation"
 version="0.9.0"
-author = "Claire Alverson"
-author_email = "calverson@overnitecbt.com"
-maintainer = "Claire Alverson"
-maintainer_email = "clairetalverson@gmail.com"
-url = 
 description = "File validation based on file signature."
 classifiers = ["License :: OSI Approved :: MIT License", "Programming Language :: Python", "Programming Language :: Python :: 3"]
 keywords = ["file", "validation"]
 license = { file = "LICENSE" }
-readme = {file = "README.md"}
+readme = "README.md"
 dependencies=["requests"]
 requires-python = ">=3.10"
 
+[metadata]
+author = "Claire Alverson"
+author_email = "calverson@overnitecbt.com"
+maintainer = "Claire Alverson"
+maintainer_email = "clairetalverson@gmail.com"
+
 [project.urls]
-Homepage = "https://github.com/overnitecbt/file-validation"
+Homepage = "https://github.com/overnitecbt/file_signature_validation"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
