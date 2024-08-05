@@ -1,4 +1,4 @@
-# file_signature_validation
+# file signature validation
 
 
 Comprehensive tests to validate a file based on file signature.
@@ -29,4 +29,4 @@ Runs the file through all of the above tests.
 
 ## Disclaimer
 
-The authors and contributors of this package can not be held liable for any false positives or damage caused by the use of the file-validation package.
+The authors and contributors of this package can not be held liable for any false positives or damage caused by the use of the file signature validation package.
